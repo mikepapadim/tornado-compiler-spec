@@ -34,4 +34,4 @@ gates), [design-review.md](compiler-replacement/design-review.md), [graal-remova
 (the Metal hand-over and its results), the phase and pipeline studies, and the raw data: `baseline/`
 (test and differential runs), `perf/` (benchmarks, jitLLM, nsys/ncu), `spikes/` (AOT, Babylon).
 
-Private. The documents describe the compiler at the commits they name.
+The documents describe the compiler at the commits they name.
